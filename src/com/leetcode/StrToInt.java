@@ -1,4 +1,4 @@
-package com.letecode;
+package com.leetcode;
 
 /**
  * @description 
